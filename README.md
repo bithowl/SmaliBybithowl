@@ -13,13 +13,7 @@ By completing this repository, you should be able to:
 - Analyze complex Smali code
 - Write and modify Smali code
 - Debug Smali-related issues
-# Resources
-Tools commonly used:
-- apktool
-- baksmali
-- smali assembler
-- JADX
-- Android SDK tools
+
 # Author
 **bithowl**
 
