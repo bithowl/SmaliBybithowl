@@ -22,7 +22,6 @@ Tools commonly used:
 - Android SDK tools
 # Author
 **bithowl**
-Android reverse engineering and low-level bytecode research.
-## Disclaimer
 
+## Disclaimer
 This repository is for educational purposes, research, and learning Android internals.
